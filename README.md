@@ -1,2 +1,4 @@
 # My-first-repository
-My new first
+My only repository
+New on github
+Really excited to start waorking on github 
